@@ -372,6 +372,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### Sandbox
 
 - [Blackvoxel](https://github.com/Blackvoxel/Blackvoxel) - Sandbox game based on a molecular voxel interaction engine.
+- [Blocks Beyond the Stars](https://github.com/marceld23/BlocksBeyondTheStars) - Block-based 3D space crafting sandbox with procedurally generated planets, block-by-block ship & base building and self-hostable multiplayer (Unity client, .NET server).
 - [Craft](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL.
 - [Endless Sky](https://github.com/endless-sky/endless-sky) - Space trading and combat game similar to the classic Escape Velocity series.
 - [Freeminer](https://github.com/freeminer/freeminer) - Sandbox game inspired by Minecraft.
