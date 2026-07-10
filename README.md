@@ -128,6 +128,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Raging Gardens](https://github.com/petarov/game-off-2012) - JavaScript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often.
 - [Release Cycles](https://github.com/RothschildGames/release-cycles) - Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle.
 - [Save The Forest](https://github.com/softvar/save-the-forest) - Fully canvas based HTML5 game where a player has to extinguish fire on tress using his magical water tank in order to save the Burning Forests.
+- [SKALP](https://github.com/amudotcom-byte/skalp) - 60-second trading-floor reflex game. Go long or short, ride the chart, close before it reverses — and don't get liquidated.
 - [Ski Free](https://github.com/basicallydan/skifree.js) - Controls a skier on a mountain slope, avoiding obstacles while racing against time or performing stunts for points, depending on the game mode.
 - [Snake](https://github.com/jrgdiz/snake) - Simple clone of the snake game, using canvas and JavaScript.
 - [Snake_new](https://github.com/RabiRoshan/snake_game) - Classic nokia snake game using web.
